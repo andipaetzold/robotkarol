@@ -23,7 +23,7 @@
     "@react-md/typography": "5.1.6",
     "@react-md/utils": "5.1.6",
     "@reduxjs/toolkit": "1.9.7",
-    "@sentry/react": "7.120.3",
+    "@sentry/react": "9.1.0",
     "@sentry/tracing": "7.120.3",
     "ace-builds": "1.37.5",
     "immer": "10.1.1",
